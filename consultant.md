@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 顧問-顏榮郎醫師
+title: 顧問顏榮郎醫師
 permalink: /consultant/
 ---
 
