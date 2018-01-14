@@ -3,6 +3,8 @@
 gems:
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-seo-tag
+
 
 exclude:
   - "/vendor/"
