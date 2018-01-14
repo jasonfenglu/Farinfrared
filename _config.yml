@@ -8,12 +8,16 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: 
+title: 殷富瑞得醫療器材企業社
 subtitle: 
 email: hsuan-hsi@hotmail.com
 name: 
-description: >
-  Far-Infrared medical equipment. 
+description: |
+  殷富瑞得醫療器材企業社  
+  新北辦公室：新北市新莊區新泰路227號4樓之1  
+  聯絡人：陸選禧  
+  0987297373、0935835436
+
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -67,6 +71,11 @@ social:
         #    desc: Follow me on Twitter
         #    share: false
         #
+        - name: Line
+          icon: Line
+          url: ""
+          username: Line:hsuan-hsi
+          share: true
         #  - name: Facebook
         #    icon: facebook
         #    username: thebencentra
